@@ -106,19 +106,6 @@
         "year": "2024"
     },
 
-    "ge2021yolox": {
-        "abstract": "Introduced YOLOX, an anchor-free version of YOLO with improved detection performance.",
-        "author": "Ge, Zheng and Liu, Songtao and Wang, Feng and Li, Zeming and Sun, Jian",
-        "doi": "10.48550/arXiv.2107.08430",
-        "journal": "arXiv preprint arXiv:2107.08430",
-        "keywords": "type:object_detection, yolox, anchor_free, deep_learning",
-        "series": "arXiv",
-        "title": "YOLOX: Exceeding YOLO Series in 2021",
-        "type": "article",
-        "url": "https://arxiv.org/abs/2107.08430",
-        "year": "2021"
-    },
-
     "balasubramaniam2022autonomous": {
         "abstract": "Surveyed object detection techniques and open challenges in autonomous driving systems.",
         "author": "Balasubramaniam, A. and Pasricha, Sudeep",
